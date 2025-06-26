@@ -1,0 +1,8 @@
+ Flask
+ flask-cors
+ mysql-connector-python
+Werkzeug
+bcrypt
+Werkzeug
+mysql-connector-python
+requests
