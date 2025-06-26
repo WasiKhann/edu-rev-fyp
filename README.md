@@ -4,6 +4,9 @@
 
 EduRev is an innovative Ed-Tech platform designed as a Final Year Project to address challenges faced by O/A-level and IGCSE students in accessing quality education. It provides syllabus-based video lectures, notes, past-paper questions with automated grading, and AI-driven feedback. By leveraging advanced AI and Natural Language Processing (NLP) techniques, EduRev offers a personalized learning experience, helping students identify and improve weak topics. It also offers 24/7 chatbot support, bridging geographical and infrastructural gaps to make quality education accessible and interactive for all.
 
+In collaboration with Securiti.ai
+Under the mentorship of Umair Ahmed - Technical Lead Software Development @Securiti.ai
+
 ### Key Features:
 
 * **Personalized Learning:** Utilizes AI to provide tailored feedback and performance tracking.
