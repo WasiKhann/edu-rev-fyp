@@ -17,13 +17,6 @@ Under the mentorship of Umair Ahmed - Technical Lead Software Development @Secur
 * **Comprehensive Content:** Includes video lectures, notes, and a vast past-paper question bank.
 * **24/7 Chatbot Support:** Provides instant assistance for student queries.
 
-### My Contributions (Wasi Khan):
-
-As a contributor to the EduRev project, my key responsibilities and achievements included:
-
-* **Backend API Optimization:** Designed and optimized backend APIs, contributing to 40% faster content delivery.
-* **AI Model Integration:** Integrated the Qwen AI model via Retrieval-Augmented Generation (RAG) for real-time Question & Answer capabilities, enhancing interactive learning.
-
 ### Mentorship & Supervision:
 
 The EduRev project greatly benefited from the guidance of our esteemed mentors and supervisors:
