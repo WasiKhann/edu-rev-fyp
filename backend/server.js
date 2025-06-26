@@ -8,8 +8,8 @@ app.use(cors());
 app.use(express.json());
 
 const db = mysql.createConnection({
-  host: 'mysql-db-edu-rev.j.aivencloud.com', // Corrected hostname
-  port: 22963, // Explicit port from your screenshot
+  host: 'placeholder', // Corrected hostname
+  port: 0, // Explicit port from your screenshot
   user: 'placeholderUsername',
   password: 'placeholderPassword',
   database: 'edurev',
