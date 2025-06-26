@@ -1,5 +1,7 @@
 # 📚 EduRev: An AI-Powered Educational Platform
 
+[Video Demo and Reports](https://drive.google.com/drive/folders/1M-CHQxZaZVF6WU_q2H01Df41qvAAvOqo?usp=sharing)
+
 EduRev is an innovative Ed-Tech platform designed as a Final Year Project to address challenges faced by O/A-level and IGCSE students in accessing quality education. It provides syllabus-based video lectures, notes, past-paper questions with automated grading, and AI-driven feedback. By leveraging advanced AI and Natural Language Processing (NLP) techniques, EduRev offers a personalized learning experience, helping students identify and improve weak topics. It also offers 24/7 chatbot support, bridging geographical and infrastructural gaps to make quality education accessible and interactive for all.
 
 ### Key Features:
