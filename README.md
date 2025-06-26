@@ -24,8 +24,3 @@ The EduRev project greatly benefited from the guidance of our esteemed mentors a
 
 * **Industry Mentor:** **Umair Ahmed**, Technical Lead Software Development at Securiti.ai
 * **Academic Supervisor:** **Dr. Muhammad Saeed**, Professor at IBA (Institute of Business Administration)
-
-### Project Repositories:
-
-* **Main Project Repository:** [Edu-Rev](https://github.com/Ibad00/Edu-Rev)
-* **Wasi Khan's Repository:** [edu-rev-fyp](https://github.com/WasiKhann/edu-rev-fyp.git)
